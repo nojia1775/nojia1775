@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Noah 👋
 
-<!--
-**nojia1775/nojia1775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in Ecole 42 Paris since 2023.
+C++ developer passionate about mathematics, physics and artificial intelligence 🚀  
+I love creating educational projects that help others understand core concepts in AI and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+
+- **C++ Libraries** – Building tools for matrix operations, neural networks, and machine learning.
+- **Mathematics and Physics** - I'm a self-taught student in mathematics and physics
+- **Open-Source Projects** – Developing educational projects to deepen understanding of AI and math.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** C, C++, Python, Javascript, Typescript, HTLM, CSS
+- **Concepts:** Linear Algebra, Supervised Learning, Neural Networks, Genetic Algorithms
+- **Tools:** Git, Makefile, Docker
+
+---
+
+## 📬 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/noah-adjemian-roseau-b856131ab)
+- [Mail](mailto:noah.adjemianroseau@gmail.com)
+
