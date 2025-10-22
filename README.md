@@ -17,7 +17,7 @@ I love creating educational projects that help others understand core concepts i
 ## 🛠️ Technical Skills
 
 - **Languages:** C, C++, Python, Javascript, Typescript, HTML, CSS
-- **Concepts:** Linear Algebra, Supervised Learning, Neural Networks, Genetic Algorithms
+- **Concepts:** Quantum Physics, Linear Algebra, Supervised Learning, Neural Networks, Genetic Algorithms
 - **Tools:** Git, Makefile, Docker
 
 ---
